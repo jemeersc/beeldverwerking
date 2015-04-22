@@ -70,7 +70,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="frederik\functions.cpp" />
+    <ClCompile Include="frederik\Source.cpp" />
     <ClCompile Include="projectx.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="frederik\Analyse.h" />
+    <ClInclude Include="frederik\dirent.h" />
+    <ClInclude Include="frederik\linefinder.h" />
+    <ClInclude Include="frederik\linehandler.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

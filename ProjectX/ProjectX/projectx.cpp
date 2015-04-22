@@ -731,17 +731,17 @@ bool opgave10(float shear_factor = -0.125, float dx = 80, float dy = 0, string f
 }
 
 
-
-int main(int argc, char **argv){
-	bool correct =
-		// Vul hier naam te gebruiken opdracht in:
-		opgave1();
-		// ---------------------------------------
-
-	if (!correct){
-		cout << endl << "Press a key to exit...";
-		cin.get();
-	}
-
-	return 0;
-}
+//
+//int main(int argc, char **argv){
+//	bool correct =
+//		// Vul hier naam te gebruiken opdracht in:
+//		opgave1();
+//		// ---------------------------------------
+//
+//	if (!correct){
+//		cout << endl << "Press a key to exit...";
+//		cin.get();
+//	}
+//
+//	return 0;
+//}

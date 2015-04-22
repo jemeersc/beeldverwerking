@@ -18,5 +18,25 @@
     <ClCompile Include="projectx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="frederik\functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="frederik\Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="frederik\Analyse.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="frederik\dirent.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="frederik\linefinder.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="frederik\linehandler.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
